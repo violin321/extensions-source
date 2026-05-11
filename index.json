@@ -10193,10 +10193,10 @@
   {
     "name": "Tachiyomi: Kaixinman",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kaixinman",
-    "apk": "tachiyomi-zh.kaixinman-v1.4.2.apk",
+    "apk": "tachiyomi-zh.kaixinman-v1.4.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
