@@ -1,0 +1,8 @@
+ext {
+    extName = 'H-Comic'
+    extClass = '.HComic'
+    extVersionCode = 1
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
